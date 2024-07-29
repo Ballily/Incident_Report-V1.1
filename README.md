@@ -1,4 +1,4 @@
-# Incident_Report Ver.1.1
+# Incident_Report Ver 1.1
 <B>Incident Report is a web-based application developed using PHP and MySQL. <br>
 It serves as a system for logging and managing incident reports within an organization. Key features include: </B> <br><br>
 Database Setup (DBIncident_Report.sql): This SQL script sets up the necessary tables and structures for the application.<br>
